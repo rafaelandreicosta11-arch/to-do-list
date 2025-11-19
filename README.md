@@ -51,7 +51,8 @@ Acesse no navegador:
 
 http://localhost/to%20do%20list/
 
-🗄 Banco de Dados Crie o banco todo_db e execute:
+🗄 Banco de Dados 
+Crie o banco todo_db e execute:
 
 CREATE DATABASE todo_db;
 USE todo_db;
